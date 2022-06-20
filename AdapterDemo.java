@@ -13,9 +13,12 @@ Price: 100.0
 Tax Amount: 36.0
 Bill Amount: 236.0
 
-
-
-
+//class AdapterDemo
+//interface calcTax
+//class GST implements CalcTax 
+//class MauriTaxAdapter implements CalcTax
+//class MauriTax
+//class Item
 
 
 import java.util.Scanner;
